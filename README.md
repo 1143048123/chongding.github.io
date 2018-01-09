@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 冲顶大会自助决策(Python3)
 
-You can use the [editor on GitHub](https://github.com/1143048123/chongding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**请勿用于淘宝用途。**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## do.py当前效果
+![sc2](https://raw.githubusercontent.com/se4/cddh/master/screenshot/screenshot2.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## web版当前效果
+Docker::Nginx->Uwsgi->Flask
 
-```markdown
-Syntax highlighted code block
+![sc-web](https://raw.githubusercontent.com/se4/cddh/master/screenshot/screenshot-web.png)
 
-# Header 1
-## Header 2
-### Header 3
+## 待办
+- [ ] 否定副词（例如：不）作降权搜索
+- [ ] 好用的网页版
+- [ ] 群聊机器人版本
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1143048123/chongding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 捐赠
+ETH：0x4fbE91279EDFAa6a477a20BdDD6606457ed5B856
